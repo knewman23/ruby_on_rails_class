@@ -1,0 +1,14 @@
+node_modules
+build
+dist
+res
+coverage
+
+# Ignore deprecated and third party code
+app/assets/javascripts/deprecated
+app/assets/javascripts/trainual_one/3rd_party
+
+config/locales
+
+app/javascript/react/components/Root.tsx
+README.md
