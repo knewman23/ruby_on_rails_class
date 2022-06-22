@@ -85,8 +85,9 @@ Layout/IndentationConsistency:
   Enabled: true
   EnforcedStyle: indented_internal_methods
 
+# Two spaces, no tabs (for indentation).
 Layout/IndentationWidth:
-  Enabled: false
+  Enabled: true
 
 Layout/LeadingCommentSpace:
   Enabled: true
